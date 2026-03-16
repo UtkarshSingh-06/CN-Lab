@@ -277,6 +277,3 @@ This project is for educational purposes. Use responsibly and ethically.
 - Solution: Ensure only one instance is accessing the database at a time
 
 ---
-
-**Made with ❤️ for Computer Networks Lab**
-
