@@ -280,4 +280,3 @@ This project is for educational purposes. Use responsibly and ethically.
 
 **Made with ❤️ for Computer Networks Lab**
 
-*Perfect for viva, impressive for resume, educational for learning!*
